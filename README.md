@@ -75,7 +75,6 @@ data/                LittleFS 網頁及公開資料
 test/                Native 單元測試
 scripts/             LittleFS staging、容量檢查及資料更新工具
 docs/                使用、設計及安裝文件
-3D print/            機箱 STEP 檔案
 ```
 
 ## 授權

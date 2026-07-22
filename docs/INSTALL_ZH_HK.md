@@ -409,7 +409,7 @@ http://192.168.x.x
 2. 輸入時間、標題及適用星期。
 3. 儲存後總覽會更新。
 
-Google Tasks bridge 係額外選項，純本地待辦唔需要 Google API、OAuth 或 Apps Script。
+純本地待辦唔需要 Google API、OAuth 或 Apps Script。本 repo 不再附送選用的 Google Apps Script bridge。
 
 ### 11.3 天氣
 
